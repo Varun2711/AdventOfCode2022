@@ -42,6 +42,3 @@ with open("Day5/day5input.txt", "r") as f:
         stacks[dst] = stacks[dst] + temp[::-1] 
 
     for stack in stacks: print(stack)
-
-TDGJQTZSL
-    
